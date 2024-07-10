@@ -1,0 +1,19 @@
+{
+  "name": "tallergit",
+  "version": "1.0.0",
+  "description": "taller de flujo de trabajo con git/github",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgonzalezef/taller3A.git"
+  },
+  "author": "Jesus Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgonzalezef/taller3A/issues"
+  },
+  "homepage": "https://github.com/jgonzalezef/taller3A#readme"
+}
